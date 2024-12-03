@@ -1,0 +1,21 @@
+{
+  "name": "my-lib-template",
+  "version": "0.0.1",
+  "description": "前端组件/组件库的工程模板,简化前端工程化内容",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "前端工程化",
+    "模板"
+  ],
+  "author": "q1anxiaodong",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-sonarjs": "^1.2.0",
+    "prettier": "^3.4.1",
+    "typescript": "^5.7.2"
+  }
+}
